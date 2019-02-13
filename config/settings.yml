@@ -1,0 +1,5 @@
+max_length_email : 250
+max_length_name : 50
+min_length_pass : 6
+user helper :
+  size : 80
